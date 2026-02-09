@@ -1,4 +1,4 @@
-# syst0022-lsd
+# [SYST0022-1] Linear System and Design - Laboratory Notebooks
 Github Repository of the Linear System and Design course
 
 ## Repository Structure
