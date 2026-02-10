@@ -7,10 +7,10 @@ This repository contains the laboratory notebooks for the SYST0022 course. Each 
 
 ### Laboratories
 
-- **lab1/** - Laboratory 1 notebook and materials
-- **lab2/** - Laboratory 2 notebook and materials
-- **lab3/** - Laboratory 3 notebook and materials
-- **lab4/** - Laboratory 4 notebook and materials
+- **lab_0/** - Laboratory 0 notebook and materials
+- **lab_1/** - Laboratory 1 notebook and materials
+- **lab_2/** - Laboratory 2 notebook and materials
+- **lab_3/** - Laboratory 3 notebook and materials
 
 ## Getting Started
 
