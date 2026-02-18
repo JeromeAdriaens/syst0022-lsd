@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# Set up autograder files
+files=(/autograder/submission/*.ipynb)
+cp "$files" /autograder/source/notebook.ipynb
+
+cd /autograder/source
+
+python3 run_tests.py
